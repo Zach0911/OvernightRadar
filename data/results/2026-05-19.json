@@ -38,12 +38,12 @@
         {
           "name": "中国卫星",
           "code": "600118",
-          "change_pct": null
+          "change_pct": -10.0
         },
         {
           "name": "航天电器",
           "code": "002025",
-          "change_pct": null
+          "change_pct": 7.22
         },
         {
           "name": "中科星图",
@@ -319,5 +319,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-19T10:40:38+08:00"
+  "updated_at": "2026-05-19T18:48:06+08:00"
 }
