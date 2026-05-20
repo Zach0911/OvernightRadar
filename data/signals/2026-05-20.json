@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T02:38:35.482267",
+  "total": 1,
+  "metadata": {
+    "news_count": 30,
+    "raw_count": 4,
+    "processed_count": 4,
+    "final_count": 1,
+    "avg_score": 48.2,
+    "min_score": 50,
+    "ai_provider": "deepseek"
+  },
+  "signals": [
+    {
+      "title": "通胀担忧推高收益率，美股承压下跌",
+      "direction": "利空",
+      "sectors": [
+        "科技股",
+        "成长股"
+      ],
+      "action": "若标普500指数开盘下跌超1%，可考虑做空科技ETF(QQQ)；若收益率继续上行，减持高估值成长股",
+      "reason": "通胀担忧导致美债收益率上升，压制高估值科技和成长股估值，市场避险情绪升温，短期可能继续调整",
+      "is_macro": true,
+      "under_priced": false,
+      "clear_action": true,
+      "score": 63,
+      "level": "中",
+      "score_detail": {
+        "importance": 25,
+        "reach": 15,
+        "pricing": 5,
+        "clarity": 18
+      }
+    }
+  ]
+}
