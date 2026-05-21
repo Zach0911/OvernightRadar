@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T02:40:42.468533",
+  "total": 2,
+  "metadata": {
+    "news_count": 25,
+    "raw_count": 4,
+    "processed_count": 4,
+    "final_count": 2,
+    "avg_score": 51.2,
+    "min_score": 50,
+    "ai_provider": "deepseek"
+  },
+  "signals": [
+    {
+      "title": "债券市场施压特朗普政策转向",
+      "direction": "利空",
+      "sectors": [
+        "国债",
+        "金融"
+      ],
+      "action": "做多长期美债（如TLT），或做空银行股（如KBE），若10年期收益率突破4.5%则加仓",
+      "reason": "特朗普因债券市场压力而退缩，显示利率上行风险对政策形成制约，可能引发股市波动，利好避险资产。",
+      "is_macro": true,
+      "under_priced": false,
+      "clear_action": true,
+      "score": 63,
+      "level": "中",
+      "score_detail": {
+        "importance": 25,
+        "reach": 15,
+        "pricing": 5,
+        "clarity": 18
+      }
+    },
+    {
+      "title": "Nvidia财报与科技投资范式转变",
+      "direction": "利多",
+      "sectors": [
+        "半导体",
+        "AI基础设施"
+      ],
+      "action": "若盘后财报超预期且次日高开<3%，可轻仓追多；若低开>2%，可逢低加仓",
+      "reason": "Jim Cramer指出半导体和AI基础设施股已取代软件成为市场新标杆，叠加Nvidia财报即将发布，市场预期强烈，可能带动整个板块反弹。",
+      "is_macro": false,
+      "under_priced": false,
+      "clear_action": true,
+      "score": 53,
+      "level": "中",
+      "score_detail": {
+        "importance": 15,
+        "reach": 15,
+        "pricing": 5,
+        "clarity": 18
+      }
+    }
+  ]
+}
