@@ -38,17 +38,17 @@
         {
           "name": "中际旭创",
           "code": "300308",
-          "change_pct": null
+          "change_pct": -4.21
         },
         {
           "name": "北方华创",
           "code": "002371",
-          "change_pct": null
+          "change_pct": 1.07
         },
         {
           "name": "中微公司",
           "code": "688012",
-          "change_pct": 5.3
+          "change_pct": -2.96
         }
       ]
     },
@@ -81,7 +81,7 @@
         {
           "name": "北京君正",
           "code": "300223",
-          "change_pct": null
+          "change_pct": -7.88
         },
         {
           "name": "东芯股份",
@@ -114,7 +114,7 @@
         {
           "name": "寒武纪",
           "code": "688256",
-          "change_pct": -1.45
+          "change_pct": -5.25
         },
         {
           "name": "海光信息",
@@ -319,5 +319,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-21T10:41:22+08:00"
+  "updated_at": "2026-05-21T18:52:55+08:00"
 }
