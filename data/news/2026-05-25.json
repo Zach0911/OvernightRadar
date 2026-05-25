@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-25",
+  "fetched_at": "2026-05-25T02:45:39.492404",
+  "total": 2,
+  "news": [
+    {
+      "category": "top news",
+      "datetime": 1779643592,
+      "headline": "'I never heard of the Strait of Hormuz before this': How one medical supply CEO is navigating the oil price shock",
+      "id": 7974274,
+      "image": "https://image.cnbcfm.com/api/v1/image/108299159-1777473957895-108299159-1777473880161-gettyimages-2273024199-dsc04213.jpg?v=1777473973&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Medical supply company Gentell sources raw materials from around the world, and the crisis at the Strait of Hormuz is causing volatility for its business.",
+      "url": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1779634801,
+      "headline": "Americans are 'entrenched' in financial stress amid debt and price pressures",
+      "id": 7974275,
+      "image": "https://image.cnbcfm.com/api/v1/image/108310671-1779380275431-gettyimages-2265448351-taxseason-6.jpeg?v=1779380285&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Inflation and high debt levels continue cause financial anxiety for many Americans. Nonprofits can help with debt mangement.",
+      "url": "https://www.cnbc.com/2026/05/24/americans-struggling-with-debt-inflation.html"
+    }
+  ]
+}
