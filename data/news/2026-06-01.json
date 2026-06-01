@@ -1,0 +1,106 @@
+{
+  "date": "2026-06-01",
+  "fetched_at": "2026-06-01T02:55:34.648494",
+  "total": 9,
+  "news": [
+    {
+      "category": "business",
+      "datetime": 1780266360,
+      "headline": "Oil prices rise more than 2% as Israel steps up incursion into Lebanon - Reuters",
+      "id": 8006583,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Oil prices rise more than 2% as Israel steps up incursion into Lebanon  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVV2Sy0tWUhKZW9kSnhoNHNrc3lPOW5mRV9VMnplaDhRd0NJNURQUl9CX0w1d2c2dTR1TGd4VzB6MmVWb1VCd3V3N1BHblFJWFh5TGN6UC1yUGlnanlUSVotVWdIZklOZDV2WVUzT01wRHRkOHYyXzBCUnRuMkhYYnRJbzZwcWtxaWt6R3BqTm1nUjZaNHVFZWVPT2JlVVJtMU9xdmo0Skc5VEh1MDVmcWFIaw?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1780258416,
+      "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah - Reuters",
+      "id": 8003821,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5"
+    },
+    {
+      "category": "top news",
+      "datetime": 1780250190,
+      "headline": "My guide to the IPOs of SpaceX, OpenAI and Anthropic — including the one I really want to buy",
+      "id": 8005351,
+      "image": "https://image.cnbcfm.com/api/v1/image/108286753-1775144948710-gettyimages-2267974761-AFP_A4VK6PE.jpeg?v=1775152292&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "These three expected deals will define 2026 and maybe even 2027. Here's my advice on how to play them.",
+      "url": "https://www.cnbc.com/2026/05/31/my-guide-to-the-ipos-of-spacex-openai-and-anthropic-including-the-one-i-really-want-to-buy.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1780244528,
+      "headline": "U.S. and Iran still without deal to end war after Trump says he's not in a 'hurry'",
+      "id": 8005149,
+      "image": "https://image.cnbcfm.com/api/v1/image/108312595-17798977032026-05-27t155956z_760332035_rc2rhla7jkq6_rtrmadp_0_usa-trump.jpeg?v=1779897750&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Trump threatened further military action if negotiations break down and the U.S. does not receive the concessions from Iran it desires.",
+      "url": "https://www.cnbc.com/2026/05/31/still-no-deal-to-end-us-iran-war-trump-says-hes-not-in-a-hurry.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1780237801,
+      "headline": "Eva Longoria says this quality is more important than an Ivy League education: 'Do you have the capacity to figure it out?'",
+      "id": 8004944,
+      "image": "https://image.cnbcfm.com/api/v1/image/108312739-1779911607962-108312739-1779908889315-gettyimages-2244078098-msp_0170_mvkez9zo.jpeg?v=1780088773&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Actor, director and entrepreneur Eva Longoria says this is a top quality she looks for when making a hire or partnering with new people.",
+      "url": "https://www.cnbc.com/2026/05/31/eva-longoria-says-this-quality-trumps-an-ivy-league-education.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1780236053,
+      "headline": "Here are the 4 big things we're watching in the stock market in the week ahead",
+      "id": 8004741,
+      "image": "https://image.cnbcfm.com/api/v1/image/106932258-1629806965316-gettyimages-1234838086-bsnf_container_006.jpeg?v=1663323053&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Earnings from CrowdStrike, Palo Alto Networks and Broadcom. Plus, jobs data, Computex and progress on spin-offs.",
+      "url": "https://www.cnbc.com/2026/05/31/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1780233318,
+      "headline": "In deeply red Oklahoma, minimum wage’s biggest 2026 election cycle fight is about to be decided",
+      "id": 8004636,
+      "image": "https://image.cnbcfm.com/api/v1/image/108314219-1780155905492-gettyimages-1084725258-929_14_voahd-78-830.jpeg?v=1780155914&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Oklahomans will soon vote on a measure to double the minimum wage, an election issue that may reflect the economic mood and inflation outlook across parties.",
+      "url": "https://www.cnbc.com/2026/05/31/oklahoma-minimum-wage-2026-election-vote-economy-inflation.html"
+    },
+    {
+      "category": "business",
+      "datetime": 1780232973,
+      "headline": "Saudi shares gain, Qatar slips on Iran-US deal uncertainty - Reuters",
+      "id": 8004946,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Saudi shares gain, Qatar slips on Iran-US deal uncertainty  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE5ycVlXQ2lyWmppTS1UaElHQzhyOEROU0hwMTBxeno2bWkzZFVxdVJIa2hRYUpRVE9nanBHNV9qTGVrMEk5ZVZ3ajRBcGpKNVJMbElKalFwQndfeDlubTlvM2J2dndOZ1lkR3RrbExaYW5BenM3TWFseHZ2RXV1cGk4enVfXzlkM3gyUUpxWXZtT1ZEWHFfYVJNbGpHU3BDSlRJTTNjdFoxdEF4?oc=5"
+    },
+    {
+      "category": "top news",
+      "datetime": 1780216693,
+      "headline": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
+      "id": 8003619,
+      "image": "https://image.cnbcfm.com/api/v1/image/108314243-1780207068337-gettyimages-2278720246-_ea23511_dfffctpf.jpeg?v=1780207079&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "The summit sees top world leaders, defence officials and key executives gathering in Singapore from May 29 to 31",
+      "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html"
+    }
+  ]
+}
