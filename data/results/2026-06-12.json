@@ -1,0 +1,323 @@
+{
+  "date": "2026-06-12",
+  "weekday": "周五",
+  "market_indices": {
+    "sp500": {
+      "change_pct": 1.75
+    },
+    "nasdaq": {
+      "change_pct": 2.54
+    },
+    "dow": {
+      "change_pct": 1.86
+    }
+  },
+  "market_summary": "8强0弱0中性",
+  "sectors": [
+    {
+      "us_name": "存储",
+      "us_etf": "DRAM",
+      "us_change_pct": 13.51,
+      "relative_strength": 11.76,
+      "volatility": {
+        "daily_vol_20d": 4.98,
+        "vol_multiple": 2.7,
+        "is_abnormal": true
+      },
+      "trend": {
+        "direction": "up",
+        "consecutive_days": 1,
+        "cumulative_pct": 13.51
+      },
+      "cn_name": "存储芯片",
+      "cn_etf_name": "存储芯片ETF",
+      "cn_etf_code": "159346",
+      "sentiment": "强烈看多",
+      "sentiment_level": 4,
+      "supply_chain": [
+        {
+          "name": "兆易创新",
+          "code": "603986",
+          "change_pct": 1.94
+        },
+        {
+          "name": "北京君正",
+          "code": "300223",
+          "change_pct": 3.17
+        },
+        {
+          "name": "东芯股份",
+          "code": "688110",
+          "change_pct": 0.61
+        }
+      ]
+    },
+    {
+      "us_name": "商业航天",
+      "us_etf": "UFO",
+      "us_change_pct": 8.9,
+      "relative_strength": 7.15,
+      "volatility": {
+        "daily_vol_20d": 3.36,
+        "vol_multiple": 2.6,
+        "is_abnormal": true
+      },
+      "trend": {
+        "direction": "up",
+        "consecutive_days": 1,
+        "cumulative_pct": 8.9
+      },
+      "cn_name": "国防军工",
+      "cn_etf_name": "航天ETF",
+      "cn_etf_code": "159819",
+      "sentiment": "强烈看多",
+      "sentiment_level": 4,
+      "supply_chain": [
+        {
+          "name": "中国卫星",
+          "code": "600118",
+          "change_pct": 3.69
+        },
+        {
+          "name": "航天电器",
+          "code": "002025",
+          "change_pct": 1.12
+        },
+        {
+          "name": "中科星图",
+          "code": "688568",
+          "change_pct": 2.75
+        }
+      ]
+    },
+    {
+      "us_name": "半导体",
+      "us_etf": "SOXX",
+      "us_change_pct": 8.39,
+      "relative_strength": 6.64,
+      "volatility": {
+        "daily_vol_20d": 3.17,
+        "vol_multiple": 2.6,
+        "is_abnormal": true
+      },
+      "trend": {
+        "direction": "up",
+        "consecutive_days": 1,
+        "cumulative_pct": 8.39
+      },
+      "cn_name": "半导体",
+      "cn_etf_name": "半导体ETF",
+      "cn_etf_code": "512480",
+      "sentiment": "强烈看多",
+      "sentiment_level": 4,
+      "supply_chain": [
+        {
+          "name": "中际旭创",
+          "code": "300308",
+          "change_pct": 2.54
+        },
+        {
+          "name": "北方华创",
+          "code": "002371",
+          "change_pct": 3.56
+        },
+        {
+          "name": "中微公司",
+          "code": "688012",
+          "change_pct": 2.97
+        }
+      ]
+    },
+    {
+      "us_name": "新能源车",
+      "us_etf": "DRIV",
+      "us_change_pct": 4.59,
+      "relative_strength": 2.84,
+      "volatility": {
+        "daily_vol_20d": 2.15,
+        "vol_multiple": 2.1,
+        "is_abnormal": true
+      },
+      "trend": {
+        "direction": "up",
+        "consecutive_days": 1,
+        "cumulative_pct": 4.59
+      },
+      "cn_name": "汽车",
+      "cn_etf_name": "新能源车ETF",
+      "cn_etf_code": "515030",
+      "sentiment": "强烈看多",
+      "sentiment_level": 4,
+      "supply_chain": [
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "change_pct": 3.41
+        },
+        {
+          "name": "拓普集团",
+          "code": "601689",
+          "change_pct": 1.16
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "change_pct": 0.7
+        }
+      ]
+    },
+    {
+      "us_name": "AI/算力",
+      "us_etf": "THNQ",
+      "us_change_pct": 3.83,
+      "relative_strength": 2.08,
+      "volatility": {
+        "daily_vol_20d": 2.25,
+        "vol_multiple": 1.7,
+        "is_abnormal": false
+      },
+      "trend": {
+        "direction": "up",
+        "consecutive_days": 1,
+        "cumulative_pct": 3.83
+      },
+      "cn_name": "计算机",
+      "cn_etf_name": "计算机ETF",
+      "cn_etf_code": "512720",
+      "sentiment": "偏多",
+      "sentiment_level": 3,
+      "supply_chain": [
+        {
+          "name": "寒武纪",
+          "code": "688256",
+          "change_pct": -0.72
+        },
+        {
+          "name": "海光信息",
+          "code": "688041",
+          "change_pct": 0.44
+        },
+        {
+          "name": "浪潮信息",
+          "code": "000977",
+          "change_pct": 1.45
+        }
+      ]
+    },
+    {
+      "us_name": "科技",
+      "us_etf": "XLK",
+      "us_change_pct": 3.73,
+      "relative_strength": 1.98,
+      "volatility": {
+        "daily_vol_20d": 1.93,
+        "vol_multiple": 1.9,
+        "is_abnormal": false
+      },
+      "trend": {
+        "direction": "up",
+        "consecutive_days": 1,
+        "cumulative_pct": 3.73
+      },
+      "cn_name": "电子",
+      "cn_etf_name": "科技ETF",
+      "cn_etf_code": "515000",
+      "sentiment": "偏多",
+      "sentiment_level": 3,
+      "supply_chain": [
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "change_pct": 2.77
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "change_pct": 3.39
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "change_pct": 0.0
+        }
+      ]
+    },
+    {
+      "us_name": "黄金",
+      "us_etf": "GLD",
+      "us_change_pct": 3.13,
+      "relative_strength": 1.38,
+      "volatility": {
+        "daily_vol_20d": 1.35,
+        "vol_multiple": 2.3,
+        "is_abnormal": true
+      },
+      "trend": {
+        "direction": "up",
+        "consecutive_days": 1,
+        "cumulative_pct": 3.13
+      },
+      "cn_name": "有色金属",
+      "cn_etf_name": "黄金ETF",
+      "cn_etf_code": "518880",
+      "sentiment": "偏多",
+      "sentiment_level": 3,
+      "supply_chain": [
+        {
+          "name": "山东黄金",
+          "code": "600547",
+          "change_pct": 4.82
+        },
+        {
+          "name": "紫金矿业",
+          "code": "601899",
+          "change_pct": 7.28
+        },
+        {
+          "name": "中金黄金",
+          "code": "600489",
+          "change_pct": 5.57
+        }
+      ]
+    },
+    {
+      "us_name": "机器人",
+      "us_etf": "BOTZ",
+      "us_change_pct": 2.81,
+      "relative_strength": 1.06,
+      "volatility": {
+        "daily_vol_20d": 1.59,
+        "vol_multiple": 1.8,
+        "is_abnormal": false
+      },
+      "trend": {
+        "direction": "up",
+        "consecutive_days": 1,
+        "cumulative_pct": 2.81
+      },
+      "cn_name": "机械设备",
+      "cn_etf_name": "机器人ETF",
+      "cn_etf_code": "159770",
+      "sentiment": "偏多",
+      "sentiment_level": 3,
+      "supply_chain": [
+        {
+          "name": "拓斯达",
+          "code": "300607",
+          "change_pct": -1.11
+        },
+        {
+          "name": "绿的谐波",
+          "code": "688017",
+          "change_pct": -0.5
+        },
+        {
+          "name": "埃斯顿",
+          "code": "002747",
+          "change_pct": -0.42
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-06-12T10:54:11+08:00"
+}
