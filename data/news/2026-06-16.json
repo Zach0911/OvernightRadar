@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-16",
+  "fetched_at": "2026-06-16T03:24:45.565916",
+  "total": 14,
+  "news": [
+    {
+      "category": "top news",
+      "datetime": 1781554144,
+      "headline": "I want people to be millionaires — Jim Cramer's blueprint to make money in any market",
+      "id": 8077221,
+      "image": "https://image.cnbcfm.com/api/v1/image/107090835-1658243303284-NUP_198367_00047_copy.jpg?v=1694379483&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "In this exclusive interview, Jim walks through how investors should think about identifying a small group of individual stocks to complement a diversified portfolio",
+      "url": "https://www.cnbc.com/2026/06/15/i-want-people-to-be-millionaires-cramer-blueprint-on-making-money-in-any-market.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1781549620,
+      "headline": "Salesforce looks to strengthen its AI platform — plus, a positive note for J&J",
+      "id": 8077213,
+      "image": "https://image.cnbcfm.com/api/v1/image/108210812-1760124319878-gettyimages-2239744238-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1776163777&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/06/15/salesforce-looks-to-strengthen-its-ai-platform-a-positive-note-for-jj.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1781545292,
+      "headline": "Things are lining up in favor of the market bulls. How to proceed from here",
+      "id": 8077207,
+      "image": "https://image.cnbcfm.com/api/v1/image/108280599-1773956111350-gettyimages-2267437819-anotherday197764726_agd3gqcv.jpeg?v=1773956163&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Oil and bond yields are falling on U.S.-Iran optimism, and the market cleared the SpaceX hurdle.",
+      "url": "https://www.cnbc.com/2026/06/15/things-are-lining-up-in-favor-of-the-market-bulls-how-to-proceed-from-here-.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1781531837,
+      "headline": "We're adding to our position in a consumer bank that benefits from lower oil prices",
+      "id": 8077158,
+      "image": "https://image.cnbcfm.com/api/v1/image/108263801-1770731879901-gettyimages-2259589776-US_RETAIL_SALES.jpeg?v=1770731920&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Concerns about consumer credit have weighed on this stock since the Iran war began.",
+      "url": "https://www.cnbc.com/2026/06/15/were-adding-to-our-position-in-a-consumer-bank-that-benefits-from-lower-oil-prices.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1781529613,
+      "headline": "Strait of Hormuz traffic to return to normal as soon as August, Kalshi traders speculate",
+      "id": 8077137,
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Odds that the Strait of Hormuz traffic will return to normal before August surpassed 50%, following U.S. President Donald Trump's announcement.",
+      "url": "https://www.cnbc.com/2026/06/15/strait-of-hormuz-traffic-to-return-to-normal-as-soon-as-august-kalshi-traders-speculate.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1781528830,
+      "headline": "The Club's top 10 things to watch in the stock market Monday",
+      "id": 8077132,
+      "image": "https://image.cnbcfm.com/api/v1/image/108314600-1781016536620-108314600-1780324872449-gettyimages-2278559443-AFP_B4M49N7.jpg?v=1781016561&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Oil is plunging and futures are surging after the U.S. and Iran agreed to a memorandum of understanding to end the war.",
+      "url": "https://www.cnbc.com/2026/06/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1781528701,
+      "headline": "Inside the unique challenges of military spouse entrepreneurs: 'Not everybody is going to understand this life'",
+      "id": 8077138,
+      "image": "https://image.cnbcfm.com/api/v1/image/108317546-1780681057857-military_spouse_2.png?v=1780681092&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Military spouses turn to entrepreneurship amid high rates of unemployment. They face high barriers to success, but a growing coalition is pushing for more help.",
+      "url": "https://www.cnbc.com/2026/06/15/military-spouse-entrepreneurs-unique-challenges-advocacy.html"
+    },
+    {
+      "category": "business",
+      "datetime": 1781524500,
+      "headline": "Fox to buy streaming device maker Roku for $22 billion",
+      "id": 8077107,
+      "image": "https://image.cnbcfm.com/api/v1/image/108195779-17573654352025-07-20t165047z_991629816_rc2gqfa6y4sl_rtrmadp_0_usa-trump.jpeg?v=1757365519&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Fox, the owner of the news and sports networks, said it has reached a deal to acquire Roku for about $22 billion in enterprise value.",
+      "url": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html"
+    },
+    {
+      "category": "business",
+      "datetime": 1781506500,
+      "headline": "Shippers remain cautious on Hormuz strait transit after US and Iran agree deal - Reuters",
+      "id": 8076970,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Shippers remain cautious on Hormuz strait transit after US and Iran agree deal  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWRDVWZoWlpiWXdWckhpc2Voc01ZeXBuMnN5SmE5MkZMOENCejE5bjZ1UDFDM3BUUG0tdThmZXh4TzExMlZKdVgzTWNJR0NSUmZHa2lTV29DWFBpYVhJSFBSUl9aN1g4aXBnQUxGNlVLT3hSc0JydjFxMkZUcjVsanpNOE00aTk1UkhaRkVoVHhteTlaWTNWa2t6SGhQU0Q3VV9MNVRYWlJxSlVRaHdZREp0RFU5TlVSdHJCYUxqemtBTEdjaGFV?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1781505960,
+      "headline": "STOXX 600 hits record high after US-Iran preliminary peace deal - Reuters",
+      "id": 8076969,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "STOXX 600 hits record high after US-Iran preliminary peace deal  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakJFV0xEVGgzbDNzSGljTk1seThqUDgyZTR1Sy1nRlhrY251dm5sRXdxZkN6LVhJWjh1bThYbm0tdi1uX0JBSzFwYzk4S3hOSWNpbFpNcVc2YUltVUQ1QVUzeEFsLWhFYTJHbHk0QUo4N3hGN1hfTDZ5R2R1RVRnNEpZdkxlTUk0U2kteE8yc21rQXZIYnQ1c0RRLVo2SlQzQjdWLTZMcGlEaTJlWEVsMHNQQQ?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1781505360,
+      "headline": "Why an Iran peace deal won't pull the yen back from the brink - Reuters",
+      "id": 8076968,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Why an Iran peace deal won't pull the yen back from the brink  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2d5REQ1dUg0T084TGFDUnZkS0NYVFM5X1lwaXlhQ1NyRDg3MXVwM24wc2RXSXBxVWV0a0o0cnZnVjJBRkJrS2tSamkwSjFjUWlaTGlTUmxHdzgwdWlXTVZaVzI5SlJVaDlhTGY1anctOXdjUXZubERZbXVlNmM3Rkw1N290UVhKYlcyOGRPNVpkZU9QTlhGTUJ1b2hNc3A4MUZHbw?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1781501220,
+      "headline": "China bonds emerge as surprise haven as Iran war reshapes portfolios - Reuters",
+      "id": 8076550,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "China bonds emerge as surprise haven as Iran war reshapes portfolios  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGVJeXVydy16cW1Bak93RU1mZFRoNy1zZnVWS0tIVGRpTEEteUpUUlBOanpFUnlrWV9qSU5mRDcwa0dnVGpQZm9feWIyRmszckFfa1dGYlpyWnh1aHljdmJoaFJuSzJPc0t0WjFobGZOcHBKZkx0TmdMRHhpRG0tQV8zXzUxalZScHJPQjhjMWlSWXVFbzUzQzdRZ3dCWVRUWDdGVURndDZkQkIzSU5aS09tTjhGQ2hq?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1781501160,
+      "headline": "Iran, US agree to halt war and reopen Hormuz, sending oil prices tumbling - Reuters",
+      "id": 8076438,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Iran, US agree to halt war and reopen Hormuz, sending oil prices tumbling  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmEtalo0LU0tcVFDaV9MWHlZSVZYQnhla0d1eF9uR0hmVGlnX29sMWVHckNwbDV2cVBVYnpTMEFDVFJJcnlybm5jUGk1UURjTmdGdzEtUlVmSmVNYUdkY3FpV3c5U3BDb2ctVnFiSkRYMFRIaVNRSFd1NnNjbmNnT0h3ZjZDeERwQTBXSzh5bDJXV21WX0gwcGZraG02ZHdNdURNT0Q1dG1QaWVvdV9VNm1HTFE3MEU3SEs4?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1781496180,
+      "headline": "G7 leaders meet in France after U.S. and Iran declare agreement to end war - Reuters",
+      "id": 8076126,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "G7 leaders meet in France after U.S. and Iran declare agreement to end war  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGtVRXdXck12Y2VTLVJSaTBZOHBwcElNZWE4SGs3TS1OeEh0QVhsQTM3cjE3S2JuQktheXJxQzhob3F2c0xJakRBeld1TElLaTg5OUFoYlEyMDVWaWdWWENMbE1QVUd2NDUxZWFJN1VISE5sdk9CZXFyYmhWSFBZTW1zbXRGOUF0MzREYk5NLXNqNllIWkhlMENVZ2NfSlZmc2I2dTUtMjBmTm5wWTdF?oc=5"
+    }
+  ]
+}
