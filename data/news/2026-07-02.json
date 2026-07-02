@@ -1,0 +1,293 @@
+{
+  "date": "2026-07-02",
+  "fetched_at": "2026-07-02T02:37:02.362919",
+  "total": 26,
+  "news": [
+    {
+      "category": "business",
+      "datetime": 1782948860,
+      "headline": "Wall Street ends choppy session lower as tech shares drop - Reuters",
+      "id": 8150903,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Wall Street ends choppy session lower as tech shares drop  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDSDhyZXpFd2lVaWQyUllERFNzcHA4T2ZZZzZhWGdGaDRRcDVKY202NmFRbGFwSnRZcmhOeTBIVG1kci1qc0Zld2lKX2Z0bW1reTRiZkJCV21UNW16dFd5cWFXVW9JbXI0R0RxWGhFa1NsWXB2NFJXZTM1dHI2cmY1NmVDRHFFTm9MZEJMSnlLZUxiSGtIb1pPM1NsdFliWlI0OWR2R0V4T2tneUkw?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782938035,
+      "headline": "Uber-backed Lime rides IPO wave to $1.7 billion valuation in Nasdaq debut - Reuters",
+      "id": 8153808,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Uber-backed Lime rides IPO wave to $1.7 billion valuation in Nasdaq debut  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdG9jQkZhX2NncDZ4Uy12N1E0cnZ0UFdEWmRMemNENDVvZThzTU9Da0FmdzFzajA5cjZfSGdkMXJDU2NIM2RFdkhVaVhvZEN2WWt5eHVGckZLbUxkXzVKTHVTVTNTVHR1UzNwR1h3TjJKQTRoZVNCbEhqcDIxdUpxNms2MGRlNFpUWnlWbkIwdk4wMkNQaTdXUjc1Yw?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782937666,
+      "headline": "Defense startups raid auto and fracking sectors for parts to speed weapons output - Reuters",
+      "id": 8152767,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Defense startups raid auto and fracking sectors for parts to speed weapons output  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXdoZFNDNWR3TXRnUjBhdERaMFM3cUlDM1o0QWVfXzQwNnpLRUc1Y0kyQUJzd1U4MVJTandHYjZkekRHWGJuWnQ3UjJjS0MxaFZacElDMWFrRUkyZU5fYjg1VHFtN0tVUUFvYVptQTNjSWZnbzZ1cmhRbDNNdkNxalo2d1hod3pzbDNkNFJneWE4T3ZRUTBJZFVxMkJFeF9rTFZ5WWRpMzhwN0RFSTNjQWxlZ2JObDR2X1kxU3JHWmNMaVFCTmk3dzB5SHQ0dw?oc=5"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782937629,
+      "headline": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+      "id": 8152752,
+      "image": "https://image.cnbcfm.com/api/v1/image/108321366-1781289964765-gettyimages-2280581172-FIFA_WORLD_CUP.jpeg?v=1781290017&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
+      "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782936739,
+      "headline": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+      "id": 8152650,
+      "image": "https://image.cnbcfm.com/api/v1/image/108136025-1745498529458-gettyimages-2208380685-IGOS2258.jpeg?v=1745498579&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Memory maker Micron, which jumped over 240% in the second quarter, dropped 11% on Wednesday, wiping out nearly $200 billion of market capitalization.",
+      "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html"
+    },
+    {
+      "category": "business",
+      "datetime": 1782932863,
+      "headline": "US factory activity eases off four-year high; input prices remain elevated - Reuters",
+      "id": 8152023,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "US factory activity eases off four-year high; input prices remain elevated  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHdmbG9IWkhIbExKVnpqbXROZmtHRDE5bXljc2JXaF9vd0pUbmRmWVZGZmNnb3B1YTE3a2I5a0JDY05odEd3UHVGSXJEU0E3b21Za0ZrREFqWnVfcWxVUHFUakg5RTBnU1ZBLTdhaWtFQ3JTUFphRjR2ZnJNb0dISklZVHZidFdpOVM2cGdLeWxyRUV2TU81c00wYkNiRi1Wd1p2S28tbw?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782930406,
+      "headline": "One US service member missing after helicopter goes down in Arabian Sea - Reuters",
+      "id": 8152977,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "One US service member missing after helicopter goes down in Arabian Sea  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalg2MGttYm04Zm1peVhEdHZNTkVXWXFwYzMxUi1IUmZQdmtYREIxRWNaX0UzdU1ON2t4dGV1djkyQm9PemFuNm1ZbXhETUd4OURyUXBCcjdYZ2dRYUJDdWVGcTdHMV91elYwVkp0UVVWZ1Q2R1Vnbm1SMWNSWWUtV3hDejdxb0RPVmUtWVdXbGttd1BBalpxc2RNZWE3UDllRjNzOC1tSkNnSEljenVn?oc=5"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782930216,
+      "headline": "2026 laggards shine in Wednesday's mixed stock market that kicked off the third quarter",
+      "id": 8152332,
+      "image": "https://image.cnbcfm.com/api/v1/image/108326264-17823199802026-06-24t160038z_1026825060_rc2d0mafrueq_rtrmadp_0_usa-stocks.jpeg?v=1782320413&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782927001,
+      "headline": "The $20,000 new vehicle is all but extinct—what the most affordable new car looks like now",
+      "id": 8152125,
+      "image": "https://image.cnbcfm.com/api/v1/image/108328831-1782839970346-gettyimages-530873866-fan2035107.jpeg?v=1782840024&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Why the $20,000 new car disappeared, and what budget-conscious buyers can expect today.",
+      "url": "https://www.cnbc.com/2026/07/01/the-20000-new-car-is-gonewhat-the-an-affordable-car-looks-like-now.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782925822,
+      "headline": "Bitcoin's summer swoon creates unique trade in Strategy",
+      "id": 8152124,
+      "image": "https://image.cnbcfm.com/api/v1/image/108302671-1778029184116-gettyimages-2272981572-AA_28042026_2757065.jpeg?v=1778029210&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Outright shorting bitcoin or high-beta crypto equities after a steep decline carries immense tail risk.",
+      "url": "https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782923801,
+      "headline": "Cramer shares next steps for a software stock after a rare bullish analyst call",
+      "id": 8152015,
+      "image": "https://image.cnbcfm.com/api/v1/image/108254282-1768921600210--vPxrYyo.jpg?v=1768921696&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/07/01/cramer-shares-next-steps-for-a-software-stock-after-a-rare-bullish-call-.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782912089,
+      "headline": "PlayStation will end physical disc production for new games in 2028",
+      "id": 8151248,
+      "image": "https://image.cnbcfm.com/api/v1/image/107379294-1709071161950-gettyimages-2043808563-img_7133_suc8qu8f.jpeg?v=1709071281&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "PlayStation will end physical disc production for new games in 2028, the company announced Wednesday morning.",
+      "url": "https://www.cnbc.com/2026/07/01/sony-playstation-physical-disc-production-2028.html"
+    },
+    {
+      "category": "business",
+      "datetime": 1782910903,
+      "headline": "Petrobras CEO sees oil settling in range of $72 to $75 per barrel - Reuters",
+      "id": 8152441,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Petrobras CEO sees oil settling in range of $72 to $75 per barrel  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGZ6b0drYzFMdTl6V3lRdEo2Z2ZjZ1NST3V5ZmZVd0FhSUdSdEhWTks1MTgxUVlBcHlLUnpIN1Z5OXBWVW9KbzIyN04tNkdaTndzNHhQTEFyNlVBTFUyUXBMZGRwYWU3VU1vOGUyLWZzdGJ3ZU9uVGRybEZwbWVmMVNfWjN4WDNBYzVnUUNYNUltVVh5ZzZzclhMNzVsYnU5b2ZnOTdOZTQ0dw?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782910774,
+      "headline": "Trump says the U.S. and Iran getting along very well - Reuters",
+      "id": 8151483,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Trump says the U.S. and Iran getting along very well  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmVQdnh2NEFfRURhdUkyalRaYzc3WFduRjdGY2ZzcXhIUDJNUkhqY19Jb193Ri1tSjBjTmlUbHJiV1VuSkV6MUtOcVZQQ3BqZURsZGgtSnUxcGptTDlPZVN4M2ZxLUlaT1NkZUQzSWFiNFNPa2dOTjhoY0wwdXJreG1mRE5qdHJWMTdEbmVtYncxSFc4emhZNnllakk?oc=5"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782910069,
+      "headline": "We're exiting a troubled stock after a muted quarter, while considering better options",
+      "id": 8151142,
+      "image": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "The quarter offered some signs that management's turnaround strategy is gaining traction, but progress remains slow.",
+      "url": "https://www.cnbc.com/2026/07/01/were-exiting-a-troubled-stock-after-a-muted-quarter-while-considering-better-options.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782906759,
+      "headline": "Buy the UK DIP? Defense stocks lifted by $20 billion spending boost as gilts come under fire",
+      "id": 8150799,
+      "image": "https://image.cnbcfm.com/api/v1/image/105337576-1531924818740gettyimages-1000143314.jpeg?v=1532563616&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "British defense stocks are marching higher once again after the U.K. confirmed a near-$20 billion military spending boost on Tuesday.",
+      "url": "https://www.cnbc.com/2026/07/01/defense-stocks-uk-investment-plan-gilts-bae-systems.html"
+    },
+    {
+      "category": "business",
+      "datetime": 1782904303,
+      "headline": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel - Reuters",
+      "id": 8151146,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWN4MVRUWnFzZkJNVjRneXVXUFlxcG0zekxKbXRqdml6bVhUUmI3ajV0THo0NVRTR1BaUjRXaVJHUjBoRVM3dlViekpfY1FtWERPODNGVEdiQ3BnajJ6YjNiZTZmYjM1ZzZ4NHN1UTRSbU1fdUtxc25MdGMzUjQtNjlKRGEzWFhXTjNHRS1ZX2pOYmtxUm1jSzRaSld6Wk9MSnUwYTJUUDI3bkhBSGprNUMtN0Rabk40d2JKTjV5VTJsV0RnMjVHaU9n?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782903717,
+      "headline": "The next Iran war may come sooner than you think - Reuters",
+      "id": 8150467,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "The next Iran war may come sooner than you think  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGhZVGxYcGxXVFlVSXdiMDkxN0Z1QnJwX1k1Nm1pWTRJX0hBR0c4QW5CUFg2Ukw3dmxJUUstR2EtUDY2TDNuMjBVWmRTNnNNeTR4MkVGU3AwYkV5Wmo4OU9ZYWR1enRRNk9PUlNLcnBpVElzTnNaVTBTOVNkcmtyVE9FSXRVUWpKQ3ZWeDA1QWxVblNaTURUWk92YlR5VF9VRDNJczJTaDhYakQtbk9PVHo5a0R4MldOcW12amV5bVhYRm05VVJOTQ?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782901802,
+      "headline": "Iran insists on keeping control over Hormuz, senior Iranian sources say - Reuters",
+      "id": 8150572,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Iran insists on keeping control over Hormuz, senior Iranian sources say  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFBydmx6S2JaLXlSTGotcDJJemY3STctRmNiX1M1aEtQR3czZzU5VEtiYjdObEloOXRVVkNEckpmY1BmaG5DZUV6UjVaTzhZd0ZSNkZaYkw4WURhbWZ3eWpBeDlBVW0wTU9XcGFLVk9PZzBtSkpQVzA0ampJOVd4X0c1U3JkTDFzUXZTUFFrZmQ3aGRWZkllSmE5Nml5M2ZPS3VWWEhDMi1nVzRCbzhrSWZXZlMzbGhrcTZTajVB?oc=5"
+    },
+    {
+      "category": "top news",
+      "datetime": 1782901788,
+      "headline": "Tech leads first half stock gains — but the biggest winners weren't in the U.S.",
+      "id": 8150672,
+      "image": "https://image.cnbcfm.com/api/v1/image/108328138-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-6.jpg?v=1782745808&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "U.S. Big Tech stocks enjoyed strong gains — despite a sharp sell-off at the end of June — but were largely outperformed by their international counterparts.",
+      "url": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html"
+    },
+    {
+      "category": "business",
+      "datetime": 1782900703,
+      "headline": "Syria's Sharaa appoints lawmakers, paving way for new parliament to convene - Reuters",
+      "id": 8151367,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Syria's Sharaa appoints lawmakers, paving way for new parliament to convene  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGRnTHk2OHBDeUxDcl81U2NIWTRlVWJrQWEzUzNiSzU5UlFwQTNjUWF1akVBMUU3aGNGWUFmWHZVeXY4UlRSS19DNkR3bFhXaF9ZUWhDNGRWOGR1NWFYajNrWE9JRW5LMzdKR1dLajZ4eURNTnpqRXBkQXR3SFZJc2p4RkhTczJTSW54NWFrWDhFUU9VemJoNTA3NUFGVEtNRUZGVGZBQWxqX1VWajJPSjN3ZmpxWDJxVXNNWQ?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782900360,
+      "headline": "US, Iran talks conclude in Doha, focused on Strait of Hormuz - Reuters",
+      "id": 8150800,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "US, Iran talks conclude in Doha, focused on Strait of Hormuz  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1Rak0tTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782895426,
+      "headline": "European shares pause after rally, doubts linger over Iran peace deal - Reuters",
+      "id": 8152651,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "European shares pause after rally, doubts linger over Iran peace deal  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1ZZdmJidkhHYWdFT3A4aHhEbEkxSWFIS0NMTDdFbWVhTVZZd0hONnVDTkZCUEhoQy1XYzU3Y1hFN2s0X1BQckNablJFTHRMcVFQVThvTHBNMU4xTEpEeVFwbFdiRFctel9PZ3NSbFVWaUIxVjVDUHNGRXJwZk9VR09PY09JUXZlenZsY293R2Fsa0ZNTFhwVUlzNHNka0tKblJybDRuNjdISVJjSG9XdDliVHZMUFJOdmdF?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782882240,
+      "headline": "NATO allies have grown silent on rights concerns in Turkey - Reuters",
+      "id": 8150573,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "NATO allies have grown silent on rights concerns in Turkey  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUJyTGpwTFVQV0psSS1EemVwX2ZGVllWc01LUnZMTnRYY0UyNlduUThhTWlVUVZjYy1fbFAySU1CSnpmQlRfTE5BTHFLZHVORlB5el9ySVdwaEZ1MHpUdDY3ZXVrTHVXdENiX29PSXJ0eHpBMW55ejhUS0dOWG1hUTE4OU03Uzd1YXFPbFJOd3M3VjZiSlo4VmtLZmpXbnNkbTFxRU04SldPdw?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782879960,
+      "headline": "Rupee hits near three-week low as Asian currencies drop on Fed, Iran war caution - Reuters",
+      "id": 8150685,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Rupee hits near three-week low as Asian currencies drop on Fed, Iran war caution  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkJzTF9wTHpITTN1S0pEeUdhZzUzWW9kN1dpVy1aS3duaVI5MlR3TGEwbVRhYWJfUTU2eF9TSmJMN0NlUlRzSjktdF8waGVyblFuZkpwbVh3UWJxNFNKa0tKeEJ4eC03VUdhU3BpWjFPUTZmNngxUHd1dWdpb1N6Mi1XSE9LaEl1RGRRM1VNU1d6UlQ2Rnc0VDZiWV9McE5xQlc4MzdSbkhJTXZ1T3o0?oc=5"
+    },
+    {
+      "category": "business",
+      "datetime": 1782874800,
+      "headline": "Factory activity was strong in June despite war-driven cost pressures, PMIs show - Reuters",
+      "id": 8150016,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "related": "",
+      "source": "Reuters",
+      "summary": "Factory activity was strong in June despite war-driven cost pressures, PMIs show  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHBDYWVQWXRJN0tHcTh2R1NBYlFJRTRBSk9DWlhwbzlaUlRmdkk1Z0RZdm1xYjIzS3NVQkRzOGZPTTZLMkRIWnFQLWVJNEtVRmtRTXlCbU1la1lIXzJWbjJCUC04akVXNUMyRWdHNVYzdkVXVlNkLW40d0hyWGhPUlJPMndhRXpKV3ItYThFXzVweE5ldktjbUtuVzMxNkpISVI2bVdVMWkyTC1oTklBXzltd1dFLVJ4UG5xR0tjS1dKQQ?oc=5"
+    }
+  ]
+}
