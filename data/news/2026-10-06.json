@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-06",
+  "fetched_at": "2026-10-06T04:11:07.359672",
+  "total": 6,
+  "news": [
+    {
+      "category": "top news",
+      "datetime": 1791225792,
+      "headline": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
+      "id": 8581100,
+      "image": "https://image.cnbcfm.com/api/v1/image/108126887-1743790425897-gettyimages-2207863979-776305461sb01.jpeg?v=1747159112&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Melius Research's Ben Reitzes has warned about AI disrupting legacy software providers for years. Now, he loves Microsoft's place in the AI race.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1791224731,
+      "headline": "Nvidia looks to take out its record high close — plus, don't worry about Intel's dip",
+      "id": 8581099,
+      "image": "https://image.cnbcfm.com/api/v1/image/108368701-1790598712807-108368701-1790598543513-jensen3.jpg?v=1790598750&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/nvidia-looks-to-take-out-its-record-high-close-plus-dont-worry-about-intels-dip.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1791217798,
+      "headline": "Cramer is closely watching Nvidia's massive buyback. Here's what he wants to see",
+      "id": 8581085,
+      "image": "https://image.cnbcfm.com/api/v1/image/108363230-17894969232026-09-15t182809z_1396824136_rc2ujnangc2w_rtrmadp_0_tech-ai.jpeg?v=1789496953&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/cramer-is-closely-watching-nvidias-buyback-heres-what-he-wants-to-see.html"
+    },
+    {
+      "category": "business",
+      "datetime": 1791214707,
+      "headline": "These are the cheapest and most expensive U.S. flights this November",
+      "id": 8581063,
+      "image": "https://image.cnbcfm.com/api/v1/image/108295831-1776895016623-gettyimages-2267658097-AA_24032026_2708274.jpeg?v=1776895137&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Holiday airplane tickets are up more than 23% this year, according to Hopper.",
+      "url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html"
+    },
+    {
+      "category": "top news",
+      "datetime": 1791205180,
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "id": 8581039,
+      "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1787834344&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Microsoft and Wells Fargo landed upgrades, and there's some encouraging M&A activity.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html"
+    },
+    {
+      "category": "business",
+      "datetime": 1791198001,
+      "headline": "Why airfare could rise even more, but airline profits won't",
+      "id": 8580987,
+      "image": "https://image.cnbcfm.com/api/v1/image/108300006-1777561346540-gettyimages-2272481063-260425_sangas_044.jpeg?v=1790982120&w=1920&h=1080",
+      "related": "",
+      "source": "CNBC",
+      "summary": "Airlines are trimming capacity as jet fuel prices keep climbing and travelers keep booking.",
+      "url": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html"
+    }
+  ]
+}
