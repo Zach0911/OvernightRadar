@@ -54,7 +54,7 @@ def fetch_benchmark_history(benchmark_key: str, period_days: int = 150) -> pd.Se
 
     for retry in range(MAX_RETRIES):
         try:
-            df = ak.stock_zh_index_daily(
+            df = ak.index_zh_daily_sina(
                 symbol=f"sh{code}" if code.startswith("00") else f"sz{code}"
             )
             if df.empty:

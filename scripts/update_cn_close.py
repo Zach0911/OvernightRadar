@@ -71,7 +71,7 @@ def fetch_stock_prices(stock_codes: list) -> dict:
         print(f"  逐个回退: {len(missing)} 只")
         for code in missing:
             try:
-                df = ak.stock_zh_a_hist(symbol=code, period="daily", adjust="qfq")
+                df = ak.stock_zh_a_hist_em(symbol=code, period="daily", adjust="qfq")
                 if df is not None and len(df) >= 2:
                     df = df.tail(2)
                     close_col = next((c for c in df.columns if c in ("收盘", "close")), None)

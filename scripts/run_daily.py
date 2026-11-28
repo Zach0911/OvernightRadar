@@ -427,7 +427,7 @@ def fetch_cn_stocks(stock_codes: list) -> dict:
         print(f"  回退到逐个获取: {len(missing_codes)} 只股票")
         for code in missing_codes:
             try:
-                df = ak.stock_zh_a_hist(symbol=code, period="daily", adjust="qfq")
+                df = ak.stock_zh_a_hist_em(symbol=code, period="daily", adjust="qfq")
                 if df is not None and len(df) >= 2:
                     df = df.tail(2)
                     close_col = None
